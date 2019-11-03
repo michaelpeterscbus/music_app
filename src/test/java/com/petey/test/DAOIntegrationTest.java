@@ -1,4 +1,4 @@
-package com.techelevator;
+package com.petey.test;
 
 import java.sql.SQLException;
 
