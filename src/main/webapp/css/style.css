@@ -1,0 +1,45 @@
+.floatLeft { 
+	width: 25%;
+	margin-left:10%; 
+	float: left; 
+}
+
+
+.floatRight {
+	width: 25%;
+	margin-right:10%; 
+	float: right; 
+}
+
+.container { 
+	overflow: 
+	hidden; 
+}
+
+.clickable-row{
+	cursor:pointer;
+}
+
+.detailsTable{
+	float:left;
+	width:30%;
+	margin-left:3%; 
+}
+
+.underline{
+	text-decoration:underline;
+}
+
+table{
+   border-collapse:collapse;
+}
+tr{
+   border-bottom: 1px solid #000;
+}
+tr:last-child{
+   border-bottom: none;
+}
+
+body{
+	background-image: url("/img/infobackground.jpg");
+}
